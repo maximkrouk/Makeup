@@ -25,6 +25,10 @@ __Calendar:__
 - NodeWrapper attibutes modification via dot-notation _(like in the __Usage__ example)_
 
   -  November 2019
+  
+- Update readme
+
+  - December 2019
 
 - First release
 
@@ -36,7 +40,7 @@ __Calendar:__
 
 - Attributes extended support _(via static factories)_
 
-  ​	January 2020
+  -	January 2020
 
 - CSS extended support
 
@@ -114,7 +118,7 @@ is rendered to:
 </html>
 ```
 
-and seems like:
+and looks like:
 
 <img src="./Assets/Example-iPhone5.png" alt="Example-iPhone5" width="270px" />
 
